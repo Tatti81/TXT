@@ -1,1 +1,18 @@
+Component: Registration form
+Type of testing: UI
+ID: 1
+Summary:
+Registration form: Unmarked mandatory fields on the Registration form
+Descriptions: 
+STR:
+1 Navigate to the website Registration form 
+2 Observe the Registration form fields requirement for mandatory use
+Actual result: required fields are not marked
+Expected result: required fields are marked
+Severity: Trivial
+Environment:
+Build version: (~)
+Device: PC
+Software version: Windows 10: 64-bit 
+Browser version: 99.0.4844.74 (Official build), (64 bit)
 
